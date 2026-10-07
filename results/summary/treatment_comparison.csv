@@ -1,0 +1,4 @@
+treatment,trades,average_transaction_price,surplus,efficiency_percent,total_decisions,runtime_minutes
+Minimal,20,2.2,18.75,50.0,297,78.54
+Standard,18,1.5139,24.75,66.0,290,84.0
+Scaffolded,2,0.95,2.75,7.3333,323,88.08

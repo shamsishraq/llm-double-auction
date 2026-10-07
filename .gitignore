@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Local model/runtime files
+ollama/
+models/
