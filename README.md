@@ -2,6 +2,9 @@
 
 A computational implementation of a competitive double auction using large language model (LLM) agents, inspired by Vernon L. Smith's classic experimental study of competitive market behavior.
 
+## Executive Summary
+A concise summary of the research design, operational rules, and initial results is available in the [Research Summary PDF](./Research_Summary.pdf).
+
 ## Overview
 
 This project explores whether a market environment based on the competitive double-auction institution can be populated with LLM-controlled buyers and sellers. The current implementation uses 11 buyers and 11 sellers, each with a private reservation value or cost, operating over repeated market periods. Agents observe public market activity while keeping their own reservation information private.
